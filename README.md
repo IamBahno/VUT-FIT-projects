@@ -1,6 +1,6 @@
 # Welcome to My Projects!
 
-Welcome to my collection of projects for the **VUT FIT** courses. Each project is linked to its corresponding GitHub repository for easy access and exploration. Below, you’ll find my projects organized by degree and semester.
+Welcome to my collection of projects for the **VUT FIT** (Faculty of Information Technology, **Brno University of Technology**). Each project is linked to its corresponding GitHub repository for easy access and exploration.
 
 ---
 
@@ -29,7 +29,21 @@ Welcome to my collection of projects for the **VUT FIT** courses. Each project i
 ## 🎓 **Master's Degree**
 
 ### 📚 **Semester 1**
-- *(Projects will be listed here)*
+#### 🔍 **AVS (Computation Systems Architectures)**
+- [🔗 AVS Project 1](https://github.com/IamBahno/avs-proj1)  
+  Mandelbrot set computing optimization with C++ using omp simd pragmas.
+
+- [🔗 AVS Project 2](https://github.com/IamBahno/avs-proj2)  
+    Parallelizing the "Marching Cubes" algorithm using OpenMP, optimizing with Octree and empty space elimination.
+
+#### 🔍 **MSP (Statistics and Probability)**
+- [🔗 MSP Project 1](https://github.com/IamBahno/MSP-project-1)  
+    Statistical analysis of algorithm runtime performance.
+
+- [🔗 MSP Project 2](https://github.com/IamBahno/MSP-Project-2)  
+    Exploring Weibull distribution likelihood and performing OLS regression.
+    
+### 📚 **Semester 2**
 
 #### 🔍 **KNN (Convolutional Neural Networks)**
 - [🔗 KNN Project 1](https://github.com/PoweredByAdrian/KNN)  
