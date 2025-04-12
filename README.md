@@ -7,57 +7,63 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 ## 🎓 **Bachelor's Degree**
 
 ### 📚 **Semester 1**
-- *(Projects will be listed here)*
+- *TODO*
 
 ### 📚 **Semester 2**
-- *(Projects will be listed here)*
+- *TODO*
 
 ### 📚 **Semester 3**
-- *(Projects will be listed here)*
+- *TODO*
 
 ### 📚 **Semester 4**
-- *(Projects will be listed here)*
+- *TODO*
 
 ### 📚 **Semester 5**
-- *(Projects will be listed here)*
+- *TODO*
 
 ### 📚 **Semester 6**
-- *(Projects will be listed here)*
+#### 🖋️ **ITY (Typography and Publishing)**
+- [🔗 ITY Assigments](https://github.com/IamBahno/ITY-assigments)  
+  Recreating PDFs with stylistics challanges using latex.
+
+#### 🎓 **Bachelor's Thesis (IBT)**
+- [🔗 Bachlore thesis](https://github.com/IamBahno/Audio-Visual-Person-Verification)  
+  Audio-visual person verification.
 
 ---
 
 ## 🎓 **Master's Degree**
 
 ### 📚 **Semester 1**
-#### 🔍 **AVS (Computation Systems Architectures)**
+#### 🖥️ **AVS (Computation Systems Architectures)**
 - [🔗 AVS Project 1](https://github.com/IamBahno/avs-proj1)  
   Mandelbrot set computing optimization with C++ using omp simd pragmas.
 
 - [🔗 AVS Project 2](https://github.com/IamBahno/avs-proj2)  
     Parallelizing the "Marching Cubes" algorithm using OpenMP, optimizing with Octree and empty space elimination.
 
-#### 🔍 **MSP (Statistics and Probability)**
+#### 📊 **MSP (Statistics and Probability)**
 - [🔗 MSP Project 1](https://github.com/IamBahno/MSP-project-1)  
     Statistical analysis of algorithm runtime performance.
 
 - [🔗 MSP Project 2](https://github.com/IamBahno/MSP-Project-2)  
     Exploring Weibull distribution likelihood and performing OLS regression.
 
-#### 🔍 **SUI (Artificial Intelligence and Machine Learning)**
+#### 🤖 **SUI (Artificial Intelligence and Machine Learning)**
 - [🔗 SUI Project 1](https://github.com/IamBahno/SUI-project-1)  
     Generative classifiers and logistic regression.
 - [🔗 SUI Project 2](https://github.com/IamBahno/sui-2)  
     Implementing a tiny library for building NNs using numpy only.
 
-#### 🔍 **UPA (Data Storage and Preparation)**
+#### 💾 **UPA (Data Storage and Preparation)**
 - [🔗 UPA Project](https://github.com/Mannej/UPA-Project1)  
     Web scraping, data preprocessing, storage in various NoSQL databases, and exploratory data analysis.
 
-#### 🔍 **TIN (Theoretical Computer Science)**
+#### 📚 **TIN (Theoretical Computer Science)**
 - [🔗 TIN Assigments](https://github.com/IamBahno/TIN-Assigments)  
     Formal languages, automata, computability, Turing machines, NP-completeness proofs, amortized complexity, and more...
 
-#### 🔍 **ZZN (Knowledge Discovery in Databases)**
+#### 📈 **ZZN (Knowledge Discovery in Databases)**
 - [🔗 ZZN Project](https://github.com/IamBahno/ZZN-project)  
     Extracting insights from telecom customers data using Data Miner (AI Studio).
 
