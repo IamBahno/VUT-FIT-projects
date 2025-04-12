@@ -42,7 +42,25 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 
 - [🔗 MSP Project 2](https://github.com/IamBahno/MSP-Project-2)  
     Exploring Weibull distribution likelihood and performing OLS regression.
-    
+
+#### 🔍 **SUI (Artificial Intelligence and Machine Learning)**
+- [🔗 SUI Project 1](https://github.com/IamBahno/SUI-project-1)  
+    Generative classifiers and logistic regression.
+- [🔗 SUI Project 2](https://github.com/IamBahno/sui-2)  
+    Implementing a tiny library for building NNs using numpy only.
+
+#### 🔍 **UPA (Data Storage and Preparation)**
+- [🔗 UPA Project](https://github.com/Mannej/UPA-Project1)  
+    Web scraping, data preprocessing, storage in various NoSQL databases, and exploratory data analysis.
+
+#### 🔍 **TIN (Theoretical Computer Science)**
+- [🔗 TIN Assigments](https://github.com/IamBahno/TIN-Assigments)  
+    Formal languages, automata, computability, Turing machines, NP-completeness proofs, amortized complexity, and more...
+
+#### 🔍 **ZZN (Knowledge Discovery in Databases)**
+- [🔗 ZZN Project](https://github.com/IamBahno/ZZN-project)  
+    Extracting insights from telecom customers data using Data Miner (AI Studio).
+
 ### 📚 **Semester 2**
 
 #### 🔍 **KNN (Convolutional Neural Networks)**
