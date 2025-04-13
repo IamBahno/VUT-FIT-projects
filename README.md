@@ -19,7 +19,31 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 - *TODO*
 
 ### 📚 **Semester 5**
-- *TODO*
+#### 🖥️ IIS (Information Systems)
+- [🔗 IIS Project](https://github.com/IamBahno/IIS-Project)  
+  IoT device management system in flask .
+#### 🔧 IMP (Microprocessors and Embedded Systems)
+- [🔗 IMP Project](https://github.com/IamBahno/IMP-FM-radio)  
+  Built a digital FM radio with a microcontroller board and basic electronics, featuring tuning, volume control, and OLED display.
+
+#### 🧪 IMS (Modelling and Simulation)
+- [🔗 IMS Project](https://github.com/IamBahno/ims)  
+  Simulation of an oil spill in the Gulf of Mexico using cellular automata.
+
+#### 📡 ISA (Network Applications and Network Administration)
+- [🔗 ISA Project](https://github.com/IamBahno/isa-tftp-project)  
+  Implementing TFTP client and server.
+#### 🎨 ITU (User Interface Programming)
+- [🔗 ITU Project](https://github.com/matej-vrba/ITU)  
+  A web app for collaborative coding sessions, built with React and Flask.
+#### 📊 IZV (Data Analysis and Visualization in Python)
+- [🔗 IZV Project 1](https://github.com/IamBahno/IZV-Project-1)  
+  Ploting of math functions in matplotlib and numerical integration in python.
+- [🔗 IZV Project 2](https://github.com/IamBahno/IZV-Project-2)  
+  Analyzing and plotting traffic accident data in the Czech Republic using pandas and seaborn.
+- [🔗 IZV Project 3](https://github.com/IamBahno/IZV-Project-3)  
+  Analyzing and plotting geographical data and testing statistical hypotheses.
+
 
 ### 📚 **Semester 6**
 #### 🖋️ **ITY (Typography and Publishing)**
