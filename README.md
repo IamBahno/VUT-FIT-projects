@@ -16,7 +16,37 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 - *TODO*
 
 ### 📚 **Semester 4**
-- *TODO*
+#### 📐 IAM (Advanced Mathematics)
+- [🔗 IAM Tasks](https://github.com/IamBahno/IAM-Tasks)  
+  SAT and SMT solvers for sudoku and 8-Queens problem.
+
+#### 🧑‍💻 ICS (The C# Programming Language)
+- [🔗 ICS Project](https://github.com/IamBahno/ICS-Project)  
+  A desktop app for planning and tracking user activities and time.
+
+#### 🛢️ IDS (Database Systems)
+- [🔗 IDS Project](https://github.com/IamBahno/IDS-project)
+  Designed and implemented a relational database system for managing classroom reservations at a school.
+
+#### 📡 IPK (Computer Communications and Networks)
+- [🔗 IPK Project 1](https://github.com/IamBahno/IPK-Project-1)
+  Client for the IPK Calculator Protocol that communicates over TCP or UDP, sending validated user input (math expressions) and displaying the calculator server’s response.
+- [🔗 IPK Project 2](https://github.com/IamBahno/IPK-Project-2--Sniffer)  
+  Network sniffer (like Wireshark).
+
+#### 💻 IPP (Principles of Programming Languages)
+- [🔗 IPP Project 1](https://github.com/IamBahno/IPP-Proj-1)  
+  Parser of IPPcode23 language into XML written in PHP.
+- [🔗 IPP Project 2](https://github.com/IamBahno/IPP-Project-2)  
+  Interpreter for IPPcode23 in Python.
+
+#### 🎮 IZG (Computer Graphics Principles)
+- [🔗 IZG Project](https://github.com/IamBahno/IZG-Project)  
+  Simple graphics card (GPU) and render models using various graphical pipeline stages.
+
+#### 🧠 IZU (Fundamentals of Artificial Intelligence)
+- [🔗 IZU Tasks 1-4](https://github.com/IamBahno/IZU-projects)  
+  Various tasks including A* search, TD learning, ID3 decision trees, and Prolog-based logic resolution.
 
 ### 📚 **Semester 5**
 #### 🖥️ IIS (Information Systems)
