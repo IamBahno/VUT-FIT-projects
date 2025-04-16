@@ -150,7 +150,7 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 
 #### 💻 **FLP (Functional and Logic Programming)**
 - [🔗 FLP Project 1](https://github.com/IamBahno/FLP-project-1)  
-  Implementing functional and logic programming concepts in real-world applications.
+  Implementing CART decision tree algorithm in haskell.
 
 #### 🖼️ **ZPO (Image Processing)**
 - [🔗 ZPO Tasks](https://github.com/IamBahno/ZPO-ukoly)  
