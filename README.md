@@ -20,7 +20,7 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 - [🔗 IAL Tasks 2](https://github.com/IamBahno/IAL-Task-2)   
   Implementing hashtable and binary tree (recursive and iterative).
 #### 🎵 IFJ (Formal Languages and Compilers)
-- [🔗 IFJ Project](https://github.com/IamBahno/IFJC22-Compiler)   
+- [🔗 IFJ Project](https://github.com/xonder05/IFJ22-Compiler)   
   Complier for IFJ22 (PHP subset).
 #### ∫ IMA2 (Calculus 2)
 
