@@ -13,7 +13,28 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 - *TODO*
 
 ### 📚 **Semester 3**
-- *TODO*
+
+#### 🔢 IAL (Algorithms)
+- [🔗 IAL Tasks 1](https://github.com/IamBahno/IAL-Tasks-1)   
+  Implementing linked list, queue and doubly linked list.
+- [🔗 IAL Tasks 2](https://github.com/IamBahno/IAL-Task-2)   
+  Implementing hashtable and binary tree (recursive and iterative).
+#### 🎵 IFJ (Formal Languages and Compilers)
+- [🔗 IFJ Project](https://github.com/IamBahno/IFJC22-Compiler)   
+  Complier for IFJ22 (PHP subset).
+#### ∫ IMA2 (Calculus 2)
+
+#### 🛠️ INP (Design of Computer Systems)
+- [🔗 INP Project 1](https://github.com/IamBahno/INP-Project-1-Branfuck-processor)   
+  Processor in VHDL for executing programs written in an extended version of the Brainfuck.
+- [🔗 INP Project 2](https://github.com/IamBahno/INP-Project-2-Vernam-Cipher)   
+  Vernam Cipher on MIPS64 Architecture using EduMIPS64 simulator.
+#### 🧠 IMF (Mathematical Foundations of Fuzzy Logic)
+#### 🎲 IPT (Probability and Statistics)
+#### 🎵 ISS (Signals and Systems)
+- [🔗 ISS Project](https://github.com/IamBahno/ISS-Singal-Processing)   
+  Signal processing for estimating fundamental frequencies of piano tones.
+
 
 ### 📚 **Semester 4**
 #### 📐 IAM (Advanced Mathematics)
