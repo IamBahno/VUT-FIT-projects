@@ -21,7 +21,7 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
   Implementing hashtable and binary tree (recursive and iterative).
 #### 🎵 IFJ (Formal Languages and Compilers)
 - [🔗 IFJ Project](https://github.com/xonder05/IFJ22-Compiler)   
-  Complier for IFJ22 (PHP subset).
+  Compiler for IFJ22 (PHP subset).
 #### ∫ IMA2 (Calculus 2)
 
 #### 🛠️ INP (Design of Computer Systems)
@@ -152,13 +152,21 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 - [🔗 FLP Project 1](https://github.com/IamBahno/FLP-project-1)  
   Implementing CART decision tree algorithm in haskell.
 
-#### 🖼️ **ZPO (Image Processing)**
-- [🔗 ZPO Tasks](https://github.com/IamBahno/ZPO-ukoly)  
-  Simple image processing tasks, including convolution and frequency filters.
+- [🔗 FLP Project 2](https://github.com/IamBahno/FLP-prolog-project)   
+  Rubik's cube solver in prolog.  
+
+#### 🌐 **MTIa (Modern Trends in Informatics)**
 
 #### 🚀 **PRL (Parallel and Distributed Algorithms)**
 - [🔗 PRL Project 1](https://github.com/IamBahno/PRL-project-1)  
   Implementing the Odd-Even Transposition Sort using MPI for parallel and distributed computing.
+- [🔗 PRL Project 2](https://github.com/IamBahno/PRL-Project-2)  
+   Determining the level of each node in a binary tree using MPI, with one process assigned per node.
+
+#### 🖼️ **ZPO (Image Processing)**
+- [🔗 ZPO Tasks](https://github.com/IamBahno/ZPO-ukoly)  
+  Simple image processing tasks, including convolution and frequency filters.
+
 
 ---
 
