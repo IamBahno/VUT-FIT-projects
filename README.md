@@ -14,12 +14,12 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 
 ### 📚 **Semester 3**
 
-#### 🔢 IAL (Algorithms)
+#### 🧮 IAL (Algorithms)
 - [🔗 IAL Tasks 1](https://github.com/IamBahno/IAL-Tasks-1)   
   Implementing linked list, queue and doubly linked list.
 - [🔗 IAL Tasks 2](https://github.com/IamBahno/IAL-Task-2)   
   Implementing hashtable and binary tree (recursive and iterative).
-#### 🎵 IFJ (Formal Languages and Compilers)
+#### 🔣 IFJ (Formal Languages and Compilers)
 - [🔗 IFJ Project](https://github.com/xonder05/IFJ22-Compiler)   
   Compiler for IFJ22 (PHP subset).
 #### ∫ IMA2 (Calculus 2)
@@ -144,6 +144,14 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 
 ### 📚 **Semester 2**
 
+#### 🔗 **BDA (Blockchain and Decentralized Applications)**
+- [🔗 BDA Assigment](https://github.com/IamBahno/BDA-multisig-wallet)  
+  Smart contract for a multi-signature Ethereum wallet.
+- [🔗 BDA Project](https://github.com/IamBahno/BDA-Enhanced-ERC20)   
+  Extended version of the standard ERC-20 token using Solidity and the Foundry.
+  
+  [keeping repos private for now]
+
 #### 🔍 **KNN (Convolutional Neural Networks)**
 - [🔗 KNN Project 1](https://github.com/PoweredByAdrian/KNN)  
   Detecting images and their captions in scanned documents.
@@ -163,10 +171,15 @@ Welcome to my collection of projects for the **VUT FIT** (Faculty of Information
 - [🔗 PRL Project 2](https://github.com/IamBahno/PRL-Project-2)  
    Determining the level of each node in a binary tree using MPI, with one process assigned per node.
 
+#### 🚀 **SUR (Machine Learning and Recognition)**
+- [🔗 SUR Project](https://github.com/IamBahno/SUR-project)  
+  Person classification from face and voice using image ResNet and audio x-vector models.
+
 #### 🖼️ **ZPO (Image Processing)**
 - [🔗 ZPO Tasks](https://github.com/IamBahno/ZPO-ukoly)  
   Simple image processing tasks, including convolution and frequency filters.
-
+- [🔗 ZPO Tasks](https://github.com/IamBahno/Depth-Estimation-Stereo-Images)  
+  Depth estimation from stereo images using various matching algorithms.
 
 ---
 
